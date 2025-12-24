@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The Pricing tool is a Python-based automation tool designed to streamline the valuation of digital assets for financial audits. It eliminates manual price lookups by connecting directly to 100+ global exchanges via the CCXT library, ensuring precise price discovery at specific historical timestamps.
 
 ### Key Features:
