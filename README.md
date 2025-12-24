@@ -16,7 +16,7 @@ The Pricing tool is a Python-based automation tool designed to streamline the va
 
 ---
 
-## 🛡️ Audit Methodology
+## Audit Methodology
 To ensure compliance with financial reporting standards (IFRS/GAAP), the tool follows a structured discovery logic:
 
 1.  **Direct Match:** Attempts to find the exact Symbol/Quote pair on the requested exchange.
@@ -28,7 +28,7 @@ To ensure compliance with financial reporting standards (IFRS/GAAP), the tool fo
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 * **Python 3.8+**
@@ -44,7 +44,7 @@ To ensure compliance with financial reporting standards (IFRS/GAAP), the tool fo
 
 ---
 
-## 📊 Output Schema
+## Output Schema
 The tool generates `SAGA_Full_Audit_Results.csv` including:
 * **Fair Value (Avg):** Mean of Open, High, Low, and Close.
 * **Final Rate (Close):** Standard closing price.
